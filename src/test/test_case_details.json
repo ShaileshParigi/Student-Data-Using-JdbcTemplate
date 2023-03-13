@@ -1,0 +1,50 @@
+[
+    {
+        "test_case_name_enum": "com.example.school.SmokeTest.contextLoads"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testgetStudents"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testgetNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testgetStudentById"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testpost"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testafterpost"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testDbAfterPost"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testput"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testafterput"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testDbAfterPut"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testdelete"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testafterdelete"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testBulkPost"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testAfterBulkPost"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.testDbAfterBulkPost"
+    },
+    {
+        "test_case_name_enum": "com.example.school.StudentControllerTests.cleanup"
+    }
+]
